@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Academic website"
+title                    : "Mohammed Aït Lahcen"
 title_separator          : "-"
 name                     : "Mohammed Aït Lahcen"
-description              : "My academic website"
+description              : "Academic website"
 url                      : https://maitlahcen.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : maitlahcen/maitlahcen.github.io
