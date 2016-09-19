@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Mohammed Aït Lahcen"
 title_separator          : "-"
 name                     : "Mohammed Aït Lahcen"
-description              : "Academic website"
+description              : "Academic and professional website of Mohammed Ait Lahcen"
 url                      : https://maitlahcen.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : maitlahcen/maitlahcen.github.io
