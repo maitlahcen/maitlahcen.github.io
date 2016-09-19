@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Mohammed Aït Lahcen"
   avatar           : "bio-photo.jpg"
-  bio              : "I'm a PhD student in economics at the university of Basel. My research interests include monetary and labor economics, search and matching theory and computational economics"
+  bio              : "I'm a PhD student in economics at the university of Basel."
   location         : "Basel, Switzerland"
   email            :
   uri              :
@@ -94,7 +94,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/maitlahcen"
+  linkedin         : "maitlahcen"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
