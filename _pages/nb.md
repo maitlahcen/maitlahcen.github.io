@@ -20,4 +20,4 @@ Below, I have listed some of my Python notebooks. All these notebooks and their 
 
 * A simple example of a projection applied to the Neoclassical Growth Model: [Python notebook](https://nbviewer.jupyter.org/github/maitlahcen/Projection/blob/master/projection_ncgm.ipynb)
 
-* A version of the Paramterized Expectation Algorithm applied to the Neoclassical Growth Model: [Python notebook](https://nbviewer.jupyter.org/github/maitlahcen/Projection/blob/master/PEA_ncgm.ipynb)
+* A version of the Paramterized Expectation Algorithm applied to the Neoclassical Growth Model: [Python notebook](https://nbviewer.jupyter.org/github/maitlahcen/Projection/blob/master/PEA_ncgm.ipynb) (work in progress)
