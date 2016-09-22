@@ -3,5 +3,5 @@ main:
   - title: "CV"
     url: https://www.dropbox.com/s/tvwomvi0claet49/Mohammed_Ait_Lahcen-CV.pdf?raw=1
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: "Notebooks"
+    url: /nb/
