@@ -3,5 +3,8 @@ main:
   - title: "CV"
     url: https://www.dropbox.com/s/tvwomvi0claet49/Mohammed_Ait_Lahcen-CV.pdf?raw=1
 
+  - title: "Research"
+    url: /research
+
   - title: "Notebooks"
     url: /nb
