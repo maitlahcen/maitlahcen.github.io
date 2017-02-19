@@ -1,7 +1,7 @@
 ---
-title: "Notebooks"
+title: "Code"
 layout: single
-excerpt: "List of my notebooks"
+excerpt: "List of my Python notebooks"
 sitemap: true
 permalink: /nb
 ---
