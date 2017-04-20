@@ -16,9 +16,6 @@ This paper studies the impact of informality on the long-run relationship betwee
 
 #### Money, Banking, and Financial Inclusion with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/)
 
+### Other Work
 
-### Other Works
-
-#### DSGE models for developing economies: an application to Morocco (Master thesis)
-
-[PDF](https://www.dropbox.com/s/klqaj4afa9baasv/Master_thesis-DSGE_developing_econ-Final.pdf?raw=1), [Data](https://www.dropbox.com/s/2mhl84sn19235jy/NK_SOE_Data.xlsx?raw=1), [Code](https://www.dropbox.com/s/18t7ds2vi5z04hf/Code.7z?raw=1)
+#### [DSGE models for developing economies: an application to Morocco](https://www.dropbox.com/s/klqaj4afa9baasv/Master_thesis-DSGE_developing_econ-Final.pdf?raw=1) ([Data](https://www.dropbox.com/s/2mhl84sn19235jy/NK_SOE_Data.xlsx?raw=1), [Code](https://www.dropbox.com/s/18t7ds2vi5z04hf/Code.7z?raw=1))
