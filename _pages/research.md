@@ -16,7 +16,7 @@ This paper studies the impact of informality on the long-run relationship betwee
 
 #### Money, Banking, and Financial Inclusion with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/)
 
-#### Labor Market Dynamics and Commodity Price Shocks in Small Open Economies
+#### Terms of Trade and the Labor Market in Commodity-Exporting Economies
 
 ### Other Work
 
