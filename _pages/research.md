@@ -14,9 +14,9 @@ This paper studies the impact of informality on the long-run relationship betwee
 
 ### Work in Progress
 
-#### A Model of Endogenous Financial Inclusion: Lessons for Developing Economies with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/)
+#### A Model of Endogenous Financial Inclusion: Implications for Developing Economies with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/)
 
-#### Terms of Trade and the Labor Market in Commodity-Exporting Economies
+#### Terms of Trade Shocks and the Labor Market in Commodity-Exporting Economies
 
 ### Other Work
 
