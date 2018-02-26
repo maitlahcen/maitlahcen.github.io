@@ -6,6 +6,9 @@ sitemap: true
 permalink: /teaching
 ---
 
+### Spring 2018
+Lecturer, [Money, Banking and Payment Systems](https://wwz.unibas.ch/wirtschaftstheorie/vorlesungen/fs-18/money-banking-and-payment-systems/abteilung/witheo/) (undergraduate).
+
 ### Spring 2017 
 Lecturer, [Money, Banking and Payment Systems](https://wwz.unibas.ch/en/wirtschaftstheorie/lectures/fs-17/money-banking-and-payment-systems/abteilung/witheo/) (undergraduate).
 
@@ -21,10 +24,9 @@ Teaching Assistant, [Monetary Theory seminar](https://wwz.unibas.ch/en/wirtschaf
 ### Spring 2015
 Teaching Assistant, [Monetary Theory](https://wwz.unibas.ch/en/wirtschaftstheorie/lectures/fs-15/monetary-theory/abteilung/witheo/) (Master).
 
-
 ### Introduction to Python for Scientific Computing
 
-In addition to my teaching duties, I offer introductory tutorials to scientific computing in Python along with some basic economic applications (e.g. basic OLG models). These tutorials are heavily inspired by the [Quant-Econ lectures](https://lectures.quantecon.org/py/).
+I offer introductory tutorials to scientific computing in Python along with some economic applications (e.g. basic OLG models). These tutorials are heavily inspired by the [Quant-Econ lectures](https://lectures.quantecon.org/py/).
 
 You can find the course material below as well as on my Github page:
 * Course introduction ([pdf slides](https://www.dropbox.com/s/iv80644ta349nxe/intro_python.pdf?raw=1));
