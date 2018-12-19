@@ -8,11 +8,11 @@ permalink: /research
 
 ### Working Papers
 
-#### [Informality and the Long Run Phillips Curve](https://www.dropbox.com/s/fhpqz06u2is8yty/informality_lrpc_paper.pdf?raw=1) 
+#### [Informality and the Long Run Phillips Curve](https://ideas.repec.org/p/zur/econwp/248.html) 
 
 I examine in a theoretical model the long run relationship between inflation, output and unemployment in the presence of a large informal sector. I find that an increase in the long run inflation rate has two opposing effects. First, it taxes money-intermediated economic activity and hence lowers the creation of jobs in both the formal and informal sectors and increases unemployment. Second, as the informal sector is more cash intensive, an increase in inflation shifts the creation of jobs from the informal to the formal sector. Since formal jobs have a lower separation rate, this labor reallocation reduces unemployment. Numerical results show that informality significantly dampens the long run effects of monetary policy on unemployment and output.
 
-#### [A Model of Endogenous Financial Inclusion: Implications for Inequality and Monetary Policy](https://www.dropbox.com/s/0h2ug44u8r7f3b6/fin_incl_paper.pdf?raw=1), with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/)
+#### [A Model of Endogenous Financial Inclusion: Implications for Inequality and Monetary Policy](https://ideas.repec.org/p/zur/econwp/310.html), with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/)
 
 We propose a monetary dynamic general equilibrium model with endogenous credit market participation to study the impact of financial inclusion on welfare and inequality. We find that significant consumption inequality can result from limited access to basic financial services. We also uncover a pecuniary externality which can result in overconsumption of financially included agents above the socially efficient level. Finally, we analyze various policies aimed at increasing financial inclusion and find that a direct benefit transfer to bank account owners is superior to interest rate policies.
 
