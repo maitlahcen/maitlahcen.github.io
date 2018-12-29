@@ -16,7 +16,7 @@ I examine in a theoretical model the long run relationship between inflation, ou
 
 We propose a monetary dynamic general equilibrium model with endogenous credit market participation to study the impact of financial inclusion on welfare and inequality. We find that significant consumption inequality can result from limited access to basic financial services. We also uncover a pecuniary externality which can result in overconsumption of financially included agents above the socially efficient level. Finally, we analyze various policies aimed at increasing financial inclusion and find that a direct benefit transfer to bank account owners is superior to interest rate policies.
 
-#### [Terms of Trade Shocks and Labor Market Dynamics in Commodity-Exporting Economies](https://www.dropbox.com/s/6ljpah0isx7gn2a/comm_tot_lmdynamics_paper.pdf?raw=1)
+#### [Terms of Trade Shocks and Labor Market Dynamics in Commodity-Exporting Economies](https://www.dropbox.com/s/tvc66aqdcfos2u4/comm_tot_lmdynamics_paper.pdf?raw=1)
 
 In this paper I investigate the empirical and theoretical relationship between commodity terms of trade shocks and the dynamics of the labor market in commodity-exporting economies. Commodity price shocks operate mainly through the wealth channel. The resulting movements in the real exchange rate affect the allocation of production factors between the non-commodity tradable and non-tradable sectors. I show that labor search and matching frictions contribute to the dampening of the shock which helps explain the Terms of Trade disconnect discussed in the literature. I also show numerically that the fundamental surplus fraction matters for the transmission of the shocks to unemployment.
 
