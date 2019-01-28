@@ -22,10 +22,10 @@ Below, I have listed some of my Python notebooks. All these notebooks and their 
 
 ### Research replication
 
+* *Berentsen, Aleksander, Guido Menzio and Randall Wright. 2011. "Inflation and Unemployment in the Long Run." American Economic Review:*
+  - [Link to paper.](https://www.aeaweb.org/articles?id=10.1257/aer.101.1.371)
+  - [Python notebook](https://nbviewer.jupyter.org/github/maitlahcen/research_replication/blob/master/BMW/BMW_replication.ipynb).
+
 * *Craig, B., & Rocheteau, G. (2008). Inflation and welfare: A search approach. Journal of Money, Credit and Banking*
   - [Link to paper.](https://www.clevelandfed.org/en/newsroom-and-events/publications/discontinued-publications/policy-discussion-papers/pdp-0612-inflation-and-welfare.aspx)
   - [Python notebook](https://nbviewer.jupyter.org/github/maitlahcen/research_replication/blob/master/Craig-Rocheteau/Craig-Rocheteau_replication.ipynb) (work in progress).
-
-* *Berentsen, Aleksander, Guido Menzio and Randall Wright. 2011. "Inflation and Unemployment in the Long Run." American Economic Review:*
-  - [Link to paper.](https://www.aeaweb.org/articles?id=10.1257/aer.101.1.371)
-  - [Python notebook](https://nbviewer.jupyter.org/github/maitlahcen/research_replication/blob/master/BMW/BMW_replication.ipynb) (work in progress).
