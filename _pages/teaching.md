@@ -8,7 +8,7 @@ permalink: /teaching
 
 ### Monetary Economics
 
-Lecturer, Money, Banking and Payment Systems (undergraduate): [Spring 2018](https://wwz.unibas.ch/de/wirtschaftstheorie/lehre/fs18/money-banking-and-payment-systems/); [Spring 2017](https://wwz.unibas.ch/de/wirtschaftstheorie/lehre/fs17/money-banking-and-payment-systems/).
+Lecturer, Money, Banking and Payment Systems (undergraduate): [Spring 2018](https://wwz.unibas.ch/de/wirtschaftstheorie/lehre/fs18/money-banking-and-payment-systems/), [Spring 2017](https://wwz.unibas.ch/de/wirtschaftstheorie/lehre/fs17/money-banking-and-payment-systems/).
 
 Teaching Assistant, Monetary Theory (Master): Spring 2016, Spring 2015
 
