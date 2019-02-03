@@ -6,23 +6,13 @@ sitemap: true
 permalink: /teaching
 ---
 
-### Spring 2018
-Lecturer, [Money, Banking and Payment Systems](https://wwz.unibas.ch/wirtschaftstheorie/vorlesungen/fs-18/money-banking-and-payment-systems/abteilung/witheo/) (undergraduate).
+### Monetary Economics
 
-### Spring 2017 
-Lecturer, [Money, Banking and Payment Systems](https://wwz.unibas.ch/en/wirtschaftstheorie/lectures/fs-17/money-banking-and-payment-systems/abteilung/witheo/) (undergraduate).
+Lecturer, Money, Banking and Payment Systems (undergraduate): [Spring 2018](https://wwz.unibas.ch/de/wirtschaftstheorie/lehre/fs18/money-banking-and-payment-systems/); [Spring 2017](https://wwz.unibas.ch/de/wirtschaftstheorie/lehre/fs17/money-banking-and-payment-systems/).
 
-### Fall 2016
-Teaching Assistant, [Monetary Theory seminar](https://wwz.unibas.ch/en/wirtschaftstheorie/lectures/hs-15/monetary-theory-phd/abteilung/witheo/) (PhD, University of Zurich).
+Teaching Assistant, Monetary Theory (Master): Spring 2016, Spring 2015
 
-### Spring 2016 
-Teaching Assistant, [Monetary Theory](https://wwz.unibas.ch/en/wirtschaftstheorie/lectures/fs-16/monetary-theory/abteilung/witheo/) (Master).
-
-### Fall 2015
-Teaching Assistant, [Monetary Theory seminar](https://wwz.unibas.ch/en/wirtschaftstheorie/lectures/hs-15/monetary-theory-phd/abteilung/witheo/) (PhD, University of Zurich).
-
-### Spring 2015
-Teaching Assistant, [Monetary Theory](https://wwz.unibas.ch/en/wirtschaftstheorie/lectures/fs-15/monetary-theory/abteilung/witheo/) (Master).
+Teaching Assistant, Monetary Theory seminar (PhD, University of Zurich): Fall 2016, Fall 2015.
 
 ### Introduction to Python for Scientific Computing
 
