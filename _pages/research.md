@@ -22,6 +22,10 @@ In this paper I investigate the empirical and theoretical relationship between c
 
 ### Work in Progress
 
+#### Monetary Policy and the Unbanked: Consequences for Stabilization, with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/) and [Christopher Waller](https://research.stlouisfed.org/econ/waller/sel/).
+
+We study stabilization policy in a monetary DSGE model where a proportion of the population doesn't have access to bank accounts. The Central Bank implements monetary policy through a discount window and commits to partially reverse its short-run interventions to maintain the long-run inflation target. We characterize the state-dependent optimal stabilization policy and show that it can reduce the welfare of the unbanked through a general equilibrium effect.
+
 #### Monetary Policy in an Environment with Domestic and Foreign Denominated Bank Accounts, with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/) and [Sébastien Lotz](http://lemma.u-paris2.fr/fr/node/35).
 
 We revisit the issue of dollarization by focusing on the co-existence of domestic and foreign currency denominated bank accounts and the challenge this poses to monetary policy. We build on empirical evidence stating that sellers tend to prefer payments in local currency for small transactions while they prefer foreign currency for large transactions. We use this observation to build a New Monetarist model which features equilibria with bank deposits and loans in both currencies. We then use it to study issues such as the benefit of allowing foreign currency denominated bank accounts, the implications on money demand and the nominal exchange rate of regulations that discriminate among assets and liabilities based on their currency denomination (e.g. differential reserve requirements).
