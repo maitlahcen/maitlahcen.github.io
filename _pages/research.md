@@ -30,6 +30,10 @@ We study stabilization policy in a monetary DSGE model where a proportion of the
 
 We revisit the issue of dollarization by focusing on the co-existence of domestic and foreign currency denominated bank accounts and the challenge this poses to monetary policy. We build on empirical evidence stating that sellers tend to prefer payments in local currency for small transactions while they prefer foreign currency for large transactions. We use this observation to build a New Monetarist model which features equilibria with bank deposits and loans in both currencies. We then use it to study issues such as the benefit of allowing foreign currency denominated bank accounts, the implications on money demand and the nominal exchange rate of regulations that discriminate among assets and liabilities based on their currency denomination (e.g. differential reserve requirements).
 
+#### Optimal Monetary Policy under Downward Nominal Wage Rigidity with [Lukas Altermatt](https://wwz.unibas.ch/en/faculty-143/persons/research-fellows/altermatt-lukas/)
+
+We study the welfare implications of long run inflation in a monetary DSGE model with labor search frictions and downward nominal wage rigidity. We explore the trade-off between the real balance effect of inflation and its role in relaxing the downward constraint on nominal wages.
+
 #### Segmented Markets and Monetary Policy in Developing Economies
 
 I study the effects of market segmentation on the short run transmission of monetary policy in developing economies. The focus here is on segmentation of the economy between formal and informal sectors and limited participation in financial markets. Monetary policy operates through open market operations in the formal financial market which affects directly only the formal part of the economy. It then propagates gradually to the informal sector through transactions between formal and informal agents in the goods and labor markets. The speed and extent of this propagation depends on interlinkages between the two sectors of the economy.
