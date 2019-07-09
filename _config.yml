@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohammed Aït Lahcen"
-  avatar           : "bio-photo.jpg"
+  image            : "bio-photo.jpg"
   bio              : "I'm a Postdoctoral Researcher in Economics at Washington University in St Louis."
   location         : "St Louis, MO, USA"
   email            : "m.aitlahcen@gmail.com"
