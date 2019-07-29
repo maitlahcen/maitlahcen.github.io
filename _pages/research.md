@@ -5,16 +5,18 @@ excerpt: "Presentation of my research"
 sitemap: true
 permalink: /research
 ---
+### Accepted and Published Papers
+
+#### [A Model of Endogenous Financial Inclusion: Implications for Inequality and Monetary Policy](https://ideas.repec.org/p/zur/econwp/310.html), with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/), *Journal of Money, Credit and Banking* (Accepted, 2019) 
+
+We propose a monetary model with endogenous credit market participation to study the impact of financial inclusion on inequality and welfare. We find that consumption inequality results from differences in agents' decision to access financial services. This heterogeneity generates a pecuniary externality, potentially resulting in some agents over-consuming. Moreover, monetary policy has distributional consequences. To quantify these effects, we calibrate our model to India, accounting for a third of observed consumption inequality. Finally, we analyze various policies aimed at increasing financial inclusion and find that a direct transfer to bank account holders yields the highest welfare and lowest consumption inequality.
+
 
 ### Working Papers
 
 #### [Informality and the Long Run Phillips Curve](https://ideas.repec.org/p/zur/econwp/248.html) 
 
 I examine in a theoretical model the long run relationship between inflation, output and unemployment in the presence of a large informal sector. I find that an increase in the long run inflation rate has two opposing effects. First, it taxes money-intermediated economic activity and hence lowers the creation of jobs in both the formal and informal sectors and increases unemployment. Second, as the informal sector is more cash intensive, an increase in inflation shifts the creation of jobs from the informal to the formal sector. Since formal jobs have a lower separation rate, this labor reallocation reduces unemployment. Numerical results show that informality significantly dampens the long run effects of monetary policy on unemployment and output.
-
-#### [A Model of Endogenous Financial Inclusion: Implications for Inequality and Monetary Policy](https://ideas.repec.org/p/zur/econwp/310.html), with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/) (Revise & Resubmit, *Journal of Money, Credit and Banking*) 
-
-We propose a monetary dynamic general equilibrium model with endogenous credit market participation to study the impact of financial inclusion on welfare and inequality. We find that significant consumption inequality can result from limited access to basic financial services. We also uncover a pecuniary externality which can result in overconsumption of financially included agents above the socially efficient level. Finally, we analyze various policies aimed at increasing financial inclusion and find that a direct benefit transfer to bank account owners is superior to interest rate policies.
 
 #### [Terms of Trade Shocks and Labor Market Dynamics in Commodity-Exporting Economies](https://www.dropbox.com/s/tvc66aqdcfos2u4/comm_tot_lmdynamics_paper.pdf?raw=1)
 
