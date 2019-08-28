@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
 layout: single
+classes: wide
 excerpt: "Presentation of my teaching"
 sitemap: true
 permalink: /teaching

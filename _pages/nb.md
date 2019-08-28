@@ -1,6 +1,7 @@
 ---
 title: "Code"
 layout: single
+classes: wide
 excerpt: "List of my Python notebooks"
 sitemap: true
 permalink: /nb
