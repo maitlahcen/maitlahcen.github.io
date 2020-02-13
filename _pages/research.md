@@ -27,7 +27,7 @@ In this paper I investigate the empirical and theoretical relationship between c
 
 ### Monetary Policy and the Unbanked: Consequences for Stabilization, with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/) and [Christopher Waller](https://research.stlouisfed.org/econ/waller/sel/).
 
-We study stabilization policy in a monetary DSGE model where a proportion of the population doesn't have access to bank accounts. The Central Bank implements monetary policy through a standing facility and commits to partially reverse its short-run interventions to maintain the long-run inflation target. We characterize the state-dependent optimal stabilization policy and show that it can reduce the welfare of the unbanked through a general equilibrium effect.
+We study stabilization policy in a monetary DSGE model where a proportion of the population doesn't have access to bank accounts. The Central Bank implements monetary policy through a standing facility and commits to partially reverse its short-run interventions to maintain the long-run inflation target. We characterize the state-dependent optimal stabilization policy and discuss its general equilibrium effects on the unbanked.
 
 ### Monetary Policy in an Environment with Domestic and Foreign Denominated Bank Accounts, with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/) and [Sébastien Lotz](http://lemma.u-paris2.fr/fr/node/35).
 
