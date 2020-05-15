@@ -37,9 +37,9 @@ We revisit the issue of dollarization by focusing on the co-existence of domesti
 
 We study the welfare implications of long run inflation in a monetary DSGE model with labor search frictions and downward nominal wage rigidity. We explore the trade-off between the real balance effect of inflation and its role in relaxing the downward constraint on nominal wages.
 
-### Segmented Markets and Monetary Policy in Developing Economies
+### Segmented Markets and Monetary Policy in Developing Economies with [Parag Waknis](https://aud.ac.in/faculty/dr-parag-waknis) 
 
-I study the effects of market segmentation on the short run transmission of monetary policy in developing economies. The focus here is on segmentation of the economy between formal and informal sectors and limited participation in financial markets. Monetary policy operates through open market operations in the formal financial market which affects directly only the formal part of the economy. It then propagates gradually to the informal sector through transactions between formal and informal agents in the goods and labor markets. The speed and extent of this propagation depends on interlinkages between the two sectors of the economy.
+We study the effects of market segmentation on the short run transmission of monetary policy in developing economies. The focus here is on segmentation of the economy between formal and informal sectors and limited participation in financial markets. Monetary policy operates through the formal financial market which affects directly only the formal part of the economy. It then propagates gradually to the informal sector through transactions between formal and informal agents in the goods and labor markets. The speed and extent of this propagation depends on interlinkages between the two sectors of the economy.
 
 ## Other Work
 
