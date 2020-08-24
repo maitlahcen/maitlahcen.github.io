@@ -2,7 +2,7 @@
 title: "Code"
 layout: single
 classes: wide
-excerpt: "List of my Python notebooks"
+excerpt: "Some Python notebooks"
 sitemap: true
 permalink: /nb
 ---
@@ -12,7 +12,7 @@ Below, I have listed some of my Python notebooks. All these notebooks and their 
 ## Projection methods
 
 * A simple example of a projection applied to the Neoclassical Growth Model: 
-  - [Python notebook.](https://nbviewer.jupyter.org/github/maitlahcen/Projection/blob/master/projection_ncgm.ipynb)
+  - [Python notebook on QuantEcon Notes.](https://notes.quantecon.org/submission/5f4078b8d24fdb001162a53a)
 
 * A projection algorithm applied to the Lucas asset pricing model: 
   - [Python notebook.](https://nbviewer.jupyter.org/github/maitlahcen/Projection/blob/master/projection_lucas_apm.ipynb)
