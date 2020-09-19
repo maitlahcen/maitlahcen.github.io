@@ -9,7 +9,7 @@ permalink: /nb
 
 Below, I have listed some of my Python notebooks. All these notebooks and their dependencies are available at [my Github page](https://github.com/maitlahcen). Note that some of them are still work in progress.
 
-## Projection methods
+### Numerical methods for Macroeconomics
 
 * A simple example of a projection applied to the Neoclassical Growth Model: 
   - [Python notebook on QuantEcon Notes.](https://notes.quantecon.org/submission/5f4078b8d24fdb001162a53a)
@@ -20,8 +20,11 @@ Below, I have listed some of my Python notebooks. All these notebooks and their 
 * A version of the Parameterized Expectations Algorithm applied to the Neoclassical Growth Model: 
   - [Python notebook](https://nbviewer.jupyter.org/github/maitlahcen/Projection/blob/master/PEA_ncgm.ipynb) (work in progress).
 
+* Examples on the use of Chebyshev polynomials for function approximation:
+  - [Python notebook](https://nbviewer.jupyter.org/urls/dl.dropbox.com/s/vaaqr53sfu6fp51/chebyshev_approximation.ipynb)
+ 
 
-## Research replication
+### Research replication
 
 * *Berentsen, Aleksander, Guido Menzio and Randall Wright. 2011. "Inflation and Unemployment in the Long Run." American Economic Review:*
   - [Link to paper.](https://www.aeaweb.org/articles?id=10.1257/aer.101.1.371)
