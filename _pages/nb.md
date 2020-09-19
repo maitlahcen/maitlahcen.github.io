@@ -9,7 +9,7 @@ permalink: /nb
 
 Below, I have listed some of my Python notebooks. All these notebooks and their dependencies are available at [my Github page](https://github.com/maitlahcen). Note that some of them are still work in progress.
 
-### Numerical methods for Macroeconomics
+### Numerical methods
 
 * A simple example of a projection applied to the Neoclassical Growth Model: 
   - [Python notebook on QuantEcon Notes.](https://notes.quantecon.org/submission/5f4078b8d24fdb001162a53a)
