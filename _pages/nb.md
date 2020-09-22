@@ -11,6 +11,9 @@ Below, I have listed some of my Python notebooks. All these notebooks and their 
 
 ### Numerical methods
 
+* Examples on the use of Chebyshev polynomials for function approximation:
+  - [Python notebook on QuantEcon Notes.](https://notes.quantecon.org/submission/5f6a23677312a0001658ee16)
+
 * A simple example of a projection applied to the Neoclassical Growth Model: 
   - [Python notebook on QuantEcon Notes.](https://notes.quantecon.org/submission/5f4078b8d24fdb001162a53a)
 
@@ -19,9 +22,6 @@ Below, I have listed some of my Python notebooks. All these notebooks and their 
 
 * A version of the Parameterized Expectations Algorithm applied to the Neoclassical Growth Model: 
   - [Python notebook](https://nbviewer.jupyter.org/github/maitlahcen/Projection/blob/master/PEA_ncgm.ipynb) (work in progress).
-
-* Examples on the use of Chebyshev polynomials for function approximation:
-  - [Python notebook](https://nbviewer.jupyter.org/urls/dl.dropbox.com/s/vaaqr53sfu6fp51/chebyshev_approximation.ipynb)
  
 
 ### Research replication
