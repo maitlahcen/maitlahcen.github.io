@@ -20,7 +20,7 @@ title                    : "Mohammed Aït Lahcen"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mohammed Aït Lahcen"
-description              : "Personnal website of Mohammed Aït Lahcen."
+description              : "Personal website of Mohammed Aït Lahcen."
 url                      : https://maitlahcen.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : maitlahcen/maitlahcen.github.io
@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Mohammed Aït Lahcen"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Washington University in St. Louis and University of Basel"
-  location         : "St Louis, MO, USA"
+  bio              : "Qatar University and University of Basel"
+  location         : "Doha, Qatar"
   email            : "m.aitlahcen@gmail.com"
   links:
     - label: "Email"
