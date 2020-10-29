@@ -8,14 +8,16 @@ permalink: /research
 ---
 ## Accepted and Published Papers
 
-### [A Model of Endogenous Financial Inclusion: Implications for Inequality and Monetary Policy](https://ideas.repec.org/p/zur/econwp/310.html), with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/), *Journal of Money, Credit and Banking* (Accepted, 2019) 
+### [A Model of Endogenous Financial Inclusion: Implications for Inequality and Monetary Policy](https://ideas.repec.org/p/zur/econwp/310.html), with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/), *Journal of Money, Credit and Banking* (Accepted) 
 
 We propose a monetary model with endogenous credit market participation to study the impact of financial inclusion on inequality and welfare. We find that consumption inequality results from differences in agents' decision to access financial services. This heterogeneity generates a pecuniary externality, potentially resulting in some agents over-consuming. Moreover, monetary policy has distributional consequences. To quantify these effects, we calibrate our model to India, accounting for a third of observed consumption inequality. Finally, we analyze various policies aimed at increasing financial inclusion and find that a direct transfer to bank account holders yields the highest welfare and lowest consumption inequality.
 
 
 ## Working Papers
 
-### [Informality, Frictional Markets and Monetary Policy](https://maitlahcen.github.io/pdfs/maitlahcen_jmp.pdf) (*job market paper*) 
+### [Informality, Frictional Markets and Monetary Policy](https://maitlahcen.github.io/pdfs/maitlahcen_jmp.pdf)
+
+*(Winner of the Young Researchers' prize at the Economics of Informality conference 2020, organized by Universidad del Rosario and the Central Bank of Colombia)*
 
 This paper studies the long run implications of monetary policy on unemployment, output and tax revenues in economies with a large informal sector. I present a monetary model with frictional labor and goods markets and where informality is an equilibrium outcome. Multiple stationary equilibria can exist due to the strategic complementarity between households' demand for money and firms' entry and formalization decisions. I show that unemployment and informality are negatively correlated across these equilibria. In the long run, higher inflation and nominal interest rates lower the demand for money which reduces informality at the cost of higher unemployment. The net effect on the formal sector and tax revenues is ambiguous. I calibrate the model to the Brazilian economy and find that the observed downward trend in the nominal interest rate implies a moderate fall in unemployment and an increase in the size of the informal sector. I simulate the long run effects of inflation under various government balanced-budget rules. When the additional seigniorage income is used to ease the tax burden on formal firms, higher inflation leads to a reduction in informality and unemployment while increasing the size of the formal sector.
 
