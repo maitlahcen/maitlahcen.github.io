@@ -6,9 +6,9 @@ excerpt: "Presentation of my research"
 sitemap: true
 permalink: /research
 ---
-## Accepted and Published Papers
+## Published Papers
 
-### [A Model of Endogenous Financial Inclusion: Implications for Inequality and Monetary Policy](https://ideas.repec.org/p/zur/econwp/310.html), with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/), *Journal of Money, Credit and Banking* (Accepted) 
+### [A Model of Endogenous Financial Inclusion: Implications for Inequality and Monetary Policy](https://ideas.repec.org/p/zur/econwp/310.html), with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/), *Journal of Money, Credit and Banking* (2021)
 
 We propose a monetary model with endogenous credit market participation to study the impact of financial inclusion on inequality and welfare. We find that consumption inequality results from differences in agents' decision to access financial services. This heterogeneity generates a pecuniary externality, potentially resulting in some agents over-consuming. Moreover, monetary policy has distributional consequences. To quantify these effects, we calibrate our model to India, accounting for a third of observed consumption inequality. Finally, we analyze various policies aimed at increasing financial inclusion and find that a direct transfer to bank account holders yields the highest welfare and lowest consumption inequality.
 
