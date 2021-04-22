@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammed Aït Lahcen"
+title                    : "Mohammed Ait Lahcen"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Mohammed Aït Lahcen"
-description              : "Personal website of Mohammed Aït Lahcen."
+name                     : "Mohammed Ait Lahcen"
+description              : "Personal website of Mohammed Ait Lahcen."
 url                      : https://maitlahcen.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : maitlahcen/maitlahcen.github.io
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammed Aït Lahcen"
+  name             : "Mohammed Ait Lahcen"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Qatar University and University of Basel"
   location         : "Doha, Qatar"
