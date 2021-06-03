@@ -15,6 +15,10 @@ We propose a monetary model with endogenous credit market participation to study
 
 ## Working Papers
 
+### [Nonlinear Unemployment Effects of the Inflation Tax](https://maitlahcen.github.io/pdfs/nonlinear_inflation_tax.pdf), with [Garth Baughman](https://www.garthbaughman.com/), [Stan Rabinovich](https://sites.google.com/site/stanrabinovicheconomics/home) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home)
+
+We argue that long-run inflation has nonlinear and state-dependent effects on unemployment, output, and welfare. Using panel data from the OECD, we document three correlations. First, there is a positive long-run relationship between anticipated inflation and unemployment. Second, there is also a positive correlation between anticipated inflation and unemployment volatility. Third, the long-run inflation-unemployment relationship is not only positive, but also stronger when unemployment is higher. We show that these correlations arise in a standard monetary search model with two shocks -- productivity and monetary -- and frictions in labor and goods markets. Inflation lowers the surplus from a worker-firm match, in turn making it sensitive to productivity shocks or to further increases in inflation. We calibrate the model to match the US postwar labor market and monetary data and show that it is consistent with observed cross-country correlations. The model implies that the welfare cost of inflation is nonlinear in the level of inflation and is amplified by the presence of aggregate shocks. 
+
 ### [Informality, Frictional Markets and Monetary Policy](https://maitlahcen.github.io/pdfs/maitlahcen_jmp.pdf)
 
 *(Winner of the Young Researchers' prize at [the Economics of Informality conference 2020](https://urosario.edu.co/The-Economics-of-Informality-Conference/home/), organized by Universidad del Rosario and the Central Bank of Colombia)*
@@ -30,10 +34,6 @@ In this paper I investigate the empirical and theoretical relationship between c
 ### Monetary Policy and the Unbanked: Consequences for Stabilization, with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/) and [Christopher Waller](https://research.stlouisfed.org/econ/waller/sel/).
 
 We study stabilization policy in a monetary DSGE model where a proportion of the population doesn't have access to bank accounts. The Central Bank implements monetary policy through a standing facility and commits to partially reverse its short-run interventions to maintain the long-run inflation target. We characterize the state-dependent optimal stabilization policy and discuss its general equilibrium effects on the unbanked.
-
-### Nonlinear Unemployment Effects of the Inflation Tax, with [Garth Baughman](https://www.garthbaughman.com/), [Stan Rabinovich](https://sites.google.com/site/stanrabinovicheconomics/home) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home)
-
-Using panel data from the OECD, we document that the long-run relationship between anticipated inflation and unemployment is not only positive, but nonlinear: the positive relationship is stronger when unemployment is higher. Moreover, higher anticipated inflation is associated with higher unemployment volatility. We show that these correlations arise naturally in a standard monetary search model with two shocks - productivity and money growth - and frictions in labor and goods markets. Inflation lowers the surplus from a worker-firm match, in turn making it sensitive to productivity shocks or further increases in inflation. We calibrate the model to match US postwar labor market and monetary data. We show that it is quantitatively consistent with observed cross-sectional correlations and use it to conduct counterfactual experiments. 
 
 ### Optimal Monetary Policy under Downward Nominal Wage Rigidity with [Lukas Altermatt](https://sites.google.com/view/lukasaltermatt) and [Stan Rabinovich](https://sites.google.com/site/stanrabinovicheconomics/home)
 
