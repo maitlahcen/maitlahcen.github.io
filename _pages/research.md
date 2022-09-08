@@ -12,7 +12,7 @@ permalink: /research
 
 We propose a monetary model with endogenous credit market participation to study the impact of financial inclusion on inequality and welfare. We find that consumption inequality results from differences in agents' decision to access financial services. This heterogeneity generates a pecuniary externality, potentially resulting in some agents over-consuming. Moreover, monetary policy has distributional consequences. To quantify these effects, we calibrate our model to India, accounting for a third of observed consumption inequality. Finally, we analyze various policies aimed at increasing financial inclusion and find that a direct transfer to bank account holders yields the highest welfare and lowest consumption inequality.
 
-### [Nonlinear Unemployment Effects of the Inflation Tax](https://www.sciencedirect.com/science/article/pii/S0014292122001465), with [Garth Baughman](https://www.garthbaughman.com/), [Stan Rabinovich](https://sites.google.com/site/stanrabinovicheconomics/home) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home), accepted at the *European Economic Review*
+### [Nonlinear Unemployment Effects of the Inflation Tax](https://www.sciencedirect.com/science/article/pii/S0014292122001465), with [Garth Baughman](https://www.garthbaughman.com/), [Stan Rabinovich](https://sites.google.com/site/stanrabinovicheconomics/home) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home), *European Economic Review* (2022)
 
 Long-run inflation has nonlinear and state-dependent effects on unemployment, output, and welfare. We show this using a standard monetary search model with two shocks -- productivity and monetary -- and frictions in both labor and goods  markets. Inflation lowers  the surplus from a worker-firm match, in turn making it more sensitive to both productivity shocks and further increases in inflation. We calibrate the model to match key aspects of the US  labor market and monetary data. The calibrated model is consistent with a number of empirical correlations, which we document using panel data from the OECD: (1) there is a positive long-run relationship between anticipated inflation and unemployment; (2) there is also a positive correlation between anticipated inflation and unemployment volatility; (3) the long-run inflation-unemployment relationship is stronger when unemployment is higher. The key mechanism through which the model generates these results is the negative effect of inflation on measured output per worker, which is likewise consistent with cross-country data. Finally, we show that the welfare cost of inflation is nonlinear in the level of inflation and is amplified by the presence of aggregate uncertainty. 
 
@@ -30,6 +30,18 @@ In this paper I investigate the empirical and theoretical relationship between c
 
 ## Work in Progress
 
+### Racial Unemployment Gap and the Disparate Impact of the Inflation Tax, with [Garth Baughman](https://www.garthbaughman.com/) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home)
+
+We study the nonlinearities present in a standard labor search model with two groups of workers facing exogenous differences in the job finding and separation rates. We then use a monetary version of the model to study the racial unemployment gap between Black and white workers in the US and the disparate impact of the inflation tax on the two groups.
+
+### Monetary Policy in an Environment with Domestic and Foreign Denominated Bank Accounts, with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/) and [Sébastien Lotz](http://lemma.u-paris2.fr/fr/node/35).
+
+We revisit the issue of dollarization by focusing on the co-existence of domestic and foreign currency denominated bank accounts and the challenge this poses to monetary policy.
+
+### Asset Pricing, Liquidity, and Monetary Policy, with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/), [Stan Rabinovich](https://sites.google.com/site/stanrabinovicheconomics/home) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home)
+
+We propose a monetary asset pricing model with multiple liquid assets and a Taylor rule to revisit the equity premium and the risk-free rate puzzles.
+
 ### Monetary Policy and the Unbanked: Consequences for Stabilization, with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/) and [Christopher Waller](https://research.stlouisfed.org/econ/waller/sel/).
 
 We study stabilization policy in a monetary DSGE model where a proportion of the population doesn't have access to bank accounts. The Central Bank implements monetary policy through a standing facility and commits to partially reverse its short-run interventions to maintain the long-run inflation target. We characterize the state-dependent optimal stabilization policy and discuss its general equilibrium effects on the unbanked.
@@ -38,9 +50,6 @@ We study stabilization policy in a monetary DSGE model where a proportion of the
 
 We study the welfare implications of long run inflation in a standard monetary search model augmented with downward nominal wage rigidity. We explore the trade-off between the real balance effect of inflation and its role in relaxing the downward constraint on nominal wages.
 
-### Monetary Policy in an Environment with Domestic and Foreign Denominated Bank Accounts, with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/) and [Sébastien Lotz](http://lemma.u-paris2.fr/fr/node/35).
-
-We revisit the issue of dollarization by focusing on the co-existence of domestic and foreign currency denominated bank accounts and the challenge this poses to monetary policy. We build on empirical evidence stating that sellers tend to prefer payments in local currency for small transactions while they prefer foreign currency for large transactions. We use this observation to build a New Monetarist model which features equilibria with bank deposits and loans in both currencies. We then use it to study issues such as the benefit of allowing foreign currency denominated bank accounts, the implications on money demand and the nominal exchange rate of regulations that discriminate among assets and liabilities based on their currency denomination (e.g. differential reserve requirements).
 
 ## Other Work
 
