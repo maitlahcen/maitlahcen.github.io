@@ -18,6 +18,10 @@ Long-run inflation has nonlinear and state-dependent effects on unemployment, ou
 
 ## Working Papers
 
+### Racial Unemployment Gap and the Disparate Impact of the Inflation Tax, with [Garth Baughman](https://www.garthbaughman.com/) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home) (draft coming soon)
+
+We study the nonlinearities present in a standard labor search model with two groups of workers facing exogenous differences in the job finding and separation rates. We then use a monetary version of the model to study the racial unemployment gap between Black and white workers in the US and the disparate impact of the inflation tax on the two groups.
+
 ### [Informality, Frictional Markets and Monetary Policy](https://maitlahcen.github.io/pdfs/maitlahcen_jmp.pdf)
 
 *(Winner of the Young Researchers' prize at [the Economics of Informality conference 2020](https://urosario.edu.co/The-Economics-of-Informality-Conference/home/), organized by Universidad del Rosario and the Central Bank of Colombia)*
@@ -29,10 +33,6 @@ This paper studies the long run implications of monetary policy on unemployment,
 In this paper I investigate the empirical and theoretical relationship between commodity terms of trade shocks and the dynamics of the labor market in commodity-exporting economies. Commodity price shocks operate mainly through the wealth channel. The resulting movements in the real exchange rate affect the allocation of production factors between the non-commodity tradable and non-tradable sectors. I show that labor search and matching frictions contribute to the dampening of the shock which helps explain the Terms of Trade disconnect discussed in the literature. I also show numerically that the fundamental surplus fraction matters for the transmission of the shocks to unemployment.
 
 ## Work in Progress
-
-### Racial Unemployment Gap and the Disparate Impact of the Inflation Tax, with [Garth Baughman](https://www.garthbaughman.com/) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home)
-
-We study the nonlinearities present in a standard labor search model with two groups of workers facing exogenous differences in the job finding and separation rates. We then use a monetary version of the model to study the racial unemployment gap between Black and white workers in the US and the disparate impact of the inflation tax on the two groups.
 
 ### Monetary Policy in an Environment with Domestic and Foreign Denominated Bank Accounts, with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/) and [Sébastien Lotz](http://lemma.u-paris2.fr/fr/node/35).
 
