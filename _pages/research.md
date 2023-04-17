@@ -18,7 +18,7 @@ Long-run inflation has nonlinear and state-dependent effects on unemployment, ou
 
 ## Working Papers
 
-### Racial Unemployment Gap and the Disparate Impact of the Inflation Tax, with [Garth Baughman](https://www.garthbaughman.com/) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home) (draft coming soon)
+### [Racial Unemployment Gap and the Disparate Impact of the Inflation Tax](https://www.federalreserve.gov/econres/feds/files/2023017pap.pdf), with [Garth Baughman](https://www.garthbaughman.com/) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home)
 
 We study the nonlinearities present in a standard labor search model with two groups of workers facing exogenous differences in the job finding and separation rates. We then use a monetary version of the model to study the racial unemployment gap between Black and white workers in the US and the disparate impact of the inflation tax on the two groups.
 
