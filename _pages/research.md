@@ -22,6 +22,10 @@ Long-run inflation has nonlinear and state-dependent effects on unemployment, ou
 
 We study the nonlinearities present in a standard labor search model with two groups of workers facing exogenous differences in the job finding and separation rates. We then use a monetary version of the model to study the racial unemployment gap between Black and white workers in the US and the disparate impact of the inflation tax on the two groups.
 
+### Intermediation and Monetary Policy in a Dollarized Economy, with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/) and [Sébastien Lotz](http://lemma.u-paris2.fr/fr/node/35) (new draft coming soon)
+
+We revisit the issue of dollarization by focusing on the co-existence of domestic and foreign currency denominated bank accounts and the challenge this poses to monetary policy.
+
 ### [Informality, Frictional Markets and Monetary Policy](https://maitlahcen.github.io/pdfs/maitlahcen_jmp.pdf)
 
 *(Winner of the Young Researchers' prize at [the Economics of Informality conference 2020](https://urosario.edu.co/The-Economics-of-Informality-Conference/home/), organized by Universidad del Rosario and the Central Bank of Colombia)*
@@ -33,10 +37,6 @@ This paper studies the long run implications of monetary policy on unemployment,
 In this paper I investigate the empirical and theoretical relationship between commodity terms of trade shocks and the dynamics of the labor market in commodity-exporting economies. Commodity price shocks operate mainly through the wealth channel. The resulting movements in the real exchange rate affect the allocation of production factors between the non-commodity tradable and non-tradable sectors. I show that labor search and matching frictions contribute to the dampening of the shock which helps explain the Terms of Trade disconnect discussed in the literature. I also show numerically that the fundamental surplus fraction matters for the transmission of the shocks to unemployment.
 
 ## Work in Progress
-
-### Monetary Policy in an Environment with Domestic and Foreign Denominated Bank Accounts, with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/) and [Sébastien Lotz](http://lemma.u-paris2.fr/fr/node/35).
-
-We revisit the issue of dollarization by focusing on the co-existence of domestic and foreign currency denominated bank accounts and the challenge this poses to monetary policy.
 
 ### Asset Pricing, Liquidity, and Monetary Policy, with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/), [Stan Rabinovich](https://sites.google.com/site/stanrabinovicheconomics/home) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home)
 
