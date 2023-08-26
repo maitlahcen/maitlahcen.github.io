@@ -7,13 +7,20 @@ sitemap: true
 permalink: /teaching
 ---
 
-## Monetary Economics
+## Macroeconomics and Monetary Economics
 
-Lecturer, Money, Banking and Payment Systems (undergraduate): [Spring 2019](https://wwz.unibas.ch/de/wirtschaftstheorie/lehre/fs19/money-banking-and-payment-systems/), [Spring 2018](https://wwz.unibas.ch/de/wirtschaftstheorie/lehre/fs18/money-banking-and-payment-systems/), [Spring 2017](https://wwz.unibas.ch/de/wirtschaftstheorie/lehre/fs17/money-banking-and-payment-systems/).
+Principles of Macroeconomics (undergraduate), Qatar University: Fall 2023.
 
-Teaching Assistant, Monetary Theory (Master): Spring 2016, Spring 2015
+Money, Banking and Payment Systems (undergraduate), University of Basel: [Spring 2019](https://wwz.unibas.ch/de/wirtschaftstheorie/lehre/fs19/money-banking-and-payment-systems/), [Spring 2018](https://wwz.unibas.ch/de/wirtschaftstheorie/lehre/fs18/money-banking-and-payment-systems/), [Spring 2017](https://wwz.unibas.ch/de/wirtschaftstheorie/lehre/fs17/money-banking-and-payment-systems/).
 
-Teaching Assistant, Monetary Theory seminar (PhD, University of Zurich): Fall 2016, Fall 2015.
+Teaching Assistant, Monetary Theory (Master), University of Basel: Spring 2016, Spring 2015
+
+Teaching Assistant, Monetary Theory seminar (PhD), University of Zurich: Fall 2016, Fall 2015.
+
+## Quantitative Methods
+
+Business Statistics I (Undergraduate), Qatar University: Spring and Fall 2021, 2022, 2023.
+Business Statistics II (Undergraduate), Qatar University: Spring and Fall 2022.
 
 ## Introduction to Python for Scientific Computing
 
