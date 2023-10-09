@@ -38,9 +38,9 @@ In this paper I investigate the empirical and theoretical relationship between c
 
 ## Work in Progress
 
-### Asset Pricing, Liquidity, and Monetary Policy, with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/), [Stan Rabinovich](https://sites.google.com/site/stanrabinovicheconomics/home) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home)
+### Asset Safety and Liquidity over the Business Cycle, with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/), [Stan Rabinovich](https://sites.google.com/site/stanrabinovicheconomics/home) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home)
 
-We propose a monetary asset pricing model with multiple liquid assets and a Taylor rule to revisit the equity premium and the risk-free rate puzzles.
+We decompose the convenience yield on U.S. Treasury bonds into safety and liquidity premia and document a positive relationship with unemployment over the business cycle. This counter-cyclical pattern persists after controlling for monetary policy, the supply of treasuries and economic uncertainty. In addition, the safety premium is much more volatile than the liquidity premium especially during recessions. We propose a real business cycle model with labor search frictions, liquid assets and corporate default to rationalize these findings. We carefully calibrate the model to U.S. data and show that it generates endogenous fluctuations in both the safety and liquidity premia on treasuries in line with the data.
 
 ### Monetary Policy and the Unbanked: Consequences for Stabilization, with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/) and [Christopher Waller](https://research.stlouisfed.org/econ/waller/sel/).
 
