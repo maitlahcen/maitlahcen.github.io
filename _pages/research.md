@@ -22,7 +22,7 @@ We propose a monetary model with endogenous credit market participation to study
 
 We study the nonlinearities present in a standard labor search model with two groups of workers facing exogenous differences in the job finding and separation rates. We then use a monetary version of the model to study the racial unemployment gap between Black and white workers in the US and the disparate impact of the inflation tax on the two groups.
 
-### Intermediation and Monetary Policy in a Dollarized Economy, with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/) and [Sébastien Lotz](http://lemma.u-paris2.fr/fr/node/35) (new draft coming soon)
+### [Intermediation and Monetary Policy in a Dollarized Economy](https://www.dropbox.com/scl/fi/u10g4o3cdtmx3ahz2idae/Intermediation_and_Monetary_Policy_in_a_Dollarized_Economy.pdf?rlkey=daa4cj6fd71z5llqnol8lnglx&dl=0), with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/) and [Sébastien Lotz](http://lemma.u-paris2.fr/fr/node/35) (new draft coming soon)
 
 We revisit the issue of dollarization by focusing on the co-existence of domestic and foreign currency denominated bank accounts and the challenge this poses to monetary policy.
 
