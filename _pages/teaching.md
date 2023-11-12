@@ -20,11 +20,12 @@ Teaching Assistant, Monetary Theory seminar (PhD), University of Zurich: Fall 20
 ## Quantitative Methods
 
 Business Statistics I (Undergraduate), Qatar University: Spring and Fall 2021, 2022, 2023.
+
 Business Statistics II (Undergraduate), Qatar University: Spring and Fall 2022.
 
 ## Introduction to Python for Scientific Computing
 
-I offer introductory tutorials to scientific computing in Python along with some economic applications (e.g. basic OLG models). These tutorials are heavily inspired by the [Quant-Econ lectures](https://lectures.quantecon.org/py/).
+I offer introductory tutorials to scientific computing in Python along with some economic applications. These tutorials are heavily inspired by the [Quant-Econ lectures](https://lectures.quantecon.org/py/).
 
 You can find the course material below as well as on my Github page:
 * Course introduction ([pdf slides](https://www.dropbox.com/s/50w7reqpk6t3cc0/intro_python.pdf?raw=1));
