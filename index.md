@@ -6,7 +6,7 @@ author_profile: true
 
 **Welcome to my website!**
 
-I am an Assistant Professor of Economics at the [Department of Finance and Economics](http://www.qu.edu.qa/business/academic-departments/finance) of Qatar University and a Research Fellow at the [Economic Theory Group](https://wwz.unibas.ch/en/faculty/people/berentsen-aleksander-economic-theory/) of the University of Basel.
+I am an Assistant Professor of Economics at the [Department of Finance and Economics](http://www.qu.edu.qa/business/academic-departments/finance) of Qatar University and a Research Fellow at the [Economic Theory Group](https://wwz.unibas.ch/en/faculty/people/berentsen-aleksander-economic-theory/) of the University of Basel. I will join the International Monetary Fund as an Economist in September 2024.
 
 My research interests lie in the field of macroeconomics and monetary economics with a particular emphasis on frictional markets.
 
