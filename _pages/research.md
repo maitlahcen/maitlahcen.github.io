@@ -18,7 +18,7 @@ In this paper, we examine how financial inclusion affects inequality and welfare
 
 ## Working Papers
 
-### [Racial Unemployment Gap and the Disparate Impact of the Inflation Tax](https://www.federalreserve.gov/econres/feds/files/2023017pap.pdf), with [Garth Baughman](https://www.garthbaughman.com/) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home) (under review)
+### [Racial Unemployment Gap and the Disparate Impact of the Inflation Tax](https://www.federalreserve.gov/econres/feds/files/2023017pap.pdf), with [Garth Baughman](https://www.garthbaughman.com/) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home) (revise and resubmit at the *Journal of Economic Dynamics and Control*)
 
 In this paper, we analyze the racial unemployment gap between Black and white workers in the United States using a monetary labor search model with two worker groups. Our calibrated model shows that the racial unemployment gap widens during downturns and reacts more strongly to shocks when aggregate unemployment is high. We also find that higher trend inflation exacerbates both the level of the gap and its sensitivity to shocks.
 
