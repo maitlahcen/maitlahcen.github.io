@@ -30,13 +30,13 @@ In this paper, we develop a micro-founded model that explains the positive corre
 
 We revisit the issue of dollarization by focusing on the co-existence of domestic and foreign currency denominated bank accounts and the challenge this poses to monetary policy.
 
-### [Informality, Frictional Markets and Monetary Policy](https://maitlahcen.github.io/pdfs/maitlahcen_jmp.pdf)
+### [Informality, Frictional Markets and Monetary Policy](https://maitlahcen.github.io/material/maitlahcen_jmp.pdf)
 
 *(Winner of the Young Researchers' prize at [the Economics of Informality conference 2020](https://urosario.edu.co/The-Economics-of-Informality-Conference/home/), organized by Universidad del Rosario and the Central Bank of Colombia)*
 
 In this paper, I explore the long-run effects of monetary policy in economies with a large informal sector. Using a monetary model calibrated to Brazil, I show that higher trend inflation can reduce informality by taxing cash-intensive informal activities but at the cost of increased unemployment. However, when inflation-generated revenues are used to lower taxes on formal firms, both informality and unemployment decline, and the formal sector expands.
 
-### [Terms of Trade Shocks and Labor Market Dynamics in Commodity-Exporting Economies](https://maitlahcen.github.io/pdfs/comm_tot_lmdynamics_paper.pdf)
+### [Terms of Trade Shocks and Labor Market Dynamics in Commodity-Exporting Economies](https://maitlahcen.github.io/material/comm_tot_lmdynamics_paper.pdf)
 
 In this paper I investigate the relationship between commodity terms of trade shocks and the dynamics of the labor market in commodity-exporting economies. I show that labor search and matching frictions contribute to the dampening of terms of trade shocks which helps explain the Terms of Trade disconnect discussed in the literature. I also show numerically that the fundamental surplus fraction matters for the transmission of the shocks to unemployment.
 
@@ -57,4 +57,4 @@ We study the welfare implications of long run inflation in a standard monetary s
 
 ## Other Work
 
-### [DSGE models for developing economies: an application to Morocco](https://ideas.repec.org/p/pra/mprapa/63404.html) ([Data](https://www.dropbox.com/s/vcvmrj2pm7usi0x/NK_SOE_Data.xlsx?raw=1), [Code](https://www.dropbox.com/s/7tga95wuabfynqx/nk_soe_inf_code.zip?raw=1))
+### [DSGE models for developing economies: an application to Morocco](https://ideas.repec.org/p/pra/mprapa/63404.html) ([Data](https://maitlahcen.github.io/material/nk_soe_informal/nk_soe_informal_data.xlsx), [Code](https://maitlahcen.github.io/material/nk_soe_informal/nk_soe_informal_code.zip))
