@@ -8,6 +8,10 @@ permalink: /research
 ---
 ## Published Papers
 
+### [Racial Unemployment Gap and the Disparate Impact of the Inflation Tax in a New Monetarist Model](https://www.sciencedirect.com/science/article/abs/pii/S0165188926000217), with [Garth Baughman](https://www.garthbaughman.com/) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home), *Journal of Economic Dynamics and Control* (2026)
+
+We analyze the disparate effects of the inflation tax on welfare and the racial unemployment gap between Black and white workers in a New Monetarist model with heterogeneity in labor market and payment frictions. A calibrated version of the model is able to replicate the difference between the two groups in both the level and the volatility of unemployment. Higher trend inflation increases both the level of the racial unemployment gap and the magnitude of its response to shocks.
+
 ### [Nonlinear Unemployment Effects of the Inflation Tax](https://www.sciencedirect.com/science/article/pii/S0014292122001465), with [Garth Baughman](https://www.garthbaughman.com/), [Stan Rabinovich](https://sites.google.com/site/stanrabinovicheconomics/home) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home), *European Economic Review* (2022)
 
 This paper examines the nonlinear and state-dependent effects of trend inflation on unemployment, output, and welfare. Using a monetary model with search frictions in labor and goods markets, we show that inflation amplifies unemployment's sensitivity to shocks and increases unemployment volatility. Empirical validation with OECD data reveals that trend inflation is positively correlated with higher unemployment levels and volatility, with this relationship being more pronounced during periods of high unemployment.
@@ -17,10 +21,6 @@ This paper examines the nonlinear and state-dependent effects of trend inflation
 In this paper, we examine how financial inclusion affects inequality and welfare through a monetary model where access to credit markets is endogenous. Calibrated to India, our model explains a significant share of consumption inequality and shows that direct transfers to bank account holders are the most effective policy for reducing inequality and improving welfare.
 
 ## Working Papers
-
-### [Racial Unemployment Gap and the Disparate Impact of the Inflation Tax](https://www.federalreserve.gov/econres/feds/files/2023017pap.pdf), with [Garth Baughman](https://www.garthbaughman.com/) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home) (revise and resubmit at the *Journal of Economic Dynamics and Control*)
-
-In this paper, we analyze the racial unemployment gap between Black and white workers in the United States using a monetary labor search model with two worker groups. Our calibrated model shows that the racial unemployment gap widens during downturns and reacts more strongly to shocks when aggregate unemployment is high. We also find that higher trend inflation exacerbates both the level of the gap and its sensitivity to shocks.
 
 ### [Asset Safety and Liquidity over the Business Cycle](https://www.dropbox.com/scl/fo/mn115fjcnrsylg7asvu71/AAzxHhV2ZNZYfn9XFBQUn6Y?rlkey=uomuab57mjwbr4sbvk0bdj4jb&dl=0), with [Pedro Gomis-Porqueras](https://sites.google.com/site/pedrogomisporqueras/), [Stan Rabinovich](https://sites.google.com/site/stanrabinovicheconomics/home) and [Hugo van Buggenum](https://sites.google.com/view/buggenum/home)
 
