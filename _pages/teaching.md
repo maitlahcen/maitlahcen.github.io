@@ -2,10 +2,12 @@
 title: "Teaching"
 layout: single
 classes: wide
-excerpt: "Presentation of my teaching"
+excerpt: "Courses in macroeconomics, monetary economics, quantitative methods, and Python."
 sitemap: true
 permalink: /teaching
 ---
+
+This page summarizes courses I have taught in macroeconomics, monetary economics, quantitative methods, and introductory scientific computing in Python.
 
 ## Macroeconomics and Monetary Economics
 

@@ -1,0 +1,70 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "{{ '/' | absolute_url }}#website",
+      "url": {{ '/' | absolute_url | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "description": {{ page.description | default: site.description | jsonify }}
+    },
+    {
+      "@type": "ProfilePage",
+      "@id": "{{ '/' | absolute_url }}#profilepage",
+      "url": {{ '/' | absolute_url | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "description": {{ page.description | default: site.description | jsonify }},
+      "isPartOf": {
+        "@id": "{{ '/' | absolute_url }}#website"
+      },
+      "mainEntity": {
+        "@id": "{{ '/' | absolute_url }}#person"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "{{ '/' | absolute_url }}#person",
+      "name": "Mohammed Ait Lahcen",
+      "givenName": "Mohammed",
+      "familyName": "Ait Lahcen",
+      "jobTitle": "Economist",
+      "url": {{ '/' | absolute_url | jsonify }},
+      "image": {{ '/assets/images/bio-photo.jpg' | absolute_url | jsonify }},
+      "description": "Economist at the International Monetary Fund specializing in macroeconomics, monetary economics, labor market frictions, informality, and financial inclusion.",
+      "email": "mailto:m.aitlahcen@gmail.com",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Washington, DC, United States"
+      },
+      "worksFor": {
+        "@type": "Organization",
+        "name": "International Monetary Fund",
+        "url": "https://www.imf.org/en/Home"
+      },
+      "alumniOf": {
+        "@type": "CollegeOrUniversity",
+        "name": "University of Basel",
+        "url": "https://www.unibas.ch/en.html"
+      },
+      "knowsAbout": [
+        "Macroeconomics",
+        "Monetary economics",
+        "Labor market frictions",
+        "Financial inclusion",
+        "Informality",
+        "Search and matching models"
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/in/maitlahcen/",
+        "https://github.com/maitlahcen",
+        "https://ideas.repec.org/e/pai46.html",
+        "https://econpapers.repec.org/RAS/pai46.htm"
+      ],
+      "mainEntityOfPage": {
+        "@id": "{{ '/' | absolute_url }}#profilepage"
+      }
+    }
+  ]
+}
+</script>

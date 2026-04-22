@@ -1,9 +1,17 @@
-# coding: utf-8
+require "json"
+
+package_json = JSON.parse(File.read("package.json"))
+tracked_files = begin
+  `git ls-files -z`.split("\x0")
+rescue StandardError
+  Dir.glob("{assets,_data,_includes,_layouts,_sass,LICENSE,README,CHANGELOG}/**/*", File::FNM_DOTMATCH)
+    .reject { |path| File.directory?(path) }
+end
 
 Gem::Specification.new do |spec|
   spec.name                    = "minimal-mistakes-jekyll"
-  spec.version                 = "4.16.6"
-  spec.authors                 = ["Michael Rose"]
+  spec.version                 = package_json["version"]
+  spec.authors                 = ["Michael Rose", "iBug"]
 
   spec.summary                 = %q{A flexible two-column Jekyll theme.}
   spec.homepage                = "https://github.com/mmistakes/minimal-mistakes"
@@ -11,11 +19,11 @@ Gem::Specification.new do |spec|
 
   spec.metadata["plugin_type"] = "theme"
 
-  spec.files                   = `git ls-files -z`.split("\x0").select do |f|
+  spec.files                   = tracked_files.select do |f|
     f.match(%r{^(assets|_(data|includes|layouts|sass)/|(LICENSE|README|CHANGELOG)((\.(txt|md|markdown)|$)))}i)
   end
 
-  spec.add_runtime_dependency "jekyll", ">= 3.6", "< 5.0"
+  spec.add_runtime_dependency "jekyll", ">= 3.7", "< 5.0"
   spec.add_runtime_dependency "jekyll-paginate", "~> 1.1"
   spec.add_runtime_dependency "jekyll-sitemap", "~> 1.3"
   spec.add_runtime_dependency "jekyll-gist", "~> 1.5"
@@ -23,5 +31,5 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "jekyll-include-cache", "~> 0.1"
 
   spec.add_development_dependency "bundler"
-  spec.add_development_dependency "rake", "~> 10.0"
+  spec.add_development_dependency "rake", ">= 12.3.3"
 end
