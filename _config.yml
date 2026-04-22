@@ -98,6 +98,9 @@ social:
   links: # An array of links to social media profiles
     - "https://www.linkedin.com/in/maitlahcen/"
     - "https://github.com/maitlahcen"
+    - "https://scholar.google.com/citations?user=5TZYEMwAAAAJ&hl=en"
+    - "https://orcid.org/0000-0002-6013-5244"
+    - "https://ssrn.com/author=1157592"
     - "https://ideas.repec.org/e/pai46.html"
     - "https://econpapers.repec.org/RAS/pai46.htm"
 
@@ -130,6 +133,15 @@ author:
     - label: "EconPapers"
       icon: "fas fa-fw fa-book"
       url: "https://econpapers.repec.org/RAS/pai46.htm"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=5TZYEMwAAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "fas fa-fw fa-id-badge"
+      url: "https://orcid.org/0000-0002-6013-5244"
+    - label: "SSRN"
+      icon: "fas fa-fw fa-file-lines"
+      url: "https://ssrn.com/author=1157592"
 
 # Site Footer
 footer:
@@ -146,6 +158,12 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/maitlahcen"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=5TZYEMwAAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "fas fa-fw fa-id-badge"
+      url: "https://orcid.org/0000-0002-6013-5244"
 
 
 # Reading Files
